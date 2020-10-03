@@ -26,7 +26,7 @@
     "babel-plugin-transform-object-assign": "^6.8.0",
     "babel-plugin-transform-object-rest-spread": "^6.8.0",
     "babel-preset-env": "1.6.0",
-    "babel-register": "^6.11.6",
+    "babel-register": "^6.26.0",
     "browser-sync": "^2.26.12",
     "compression": "^1.7.1",
     "cross-env": "^5.1.1",
@@ -63,5 +63,8 @@
     "webpack-stream": "^4.0.0",
     "whatwg-fetch": "^1.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0"
+  }
 }
